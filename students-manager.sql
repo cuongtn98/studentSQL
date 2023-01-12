@@ -1,0 +1,1 @@
+SELECT * FROM `student-manager`.`students-manager`;
